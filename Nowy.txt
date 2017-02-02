@@ -1,2 +1,3 @@
 To jest mój plik
-Dzisiaj jest czwartek
+Dzisiaj jest pi¹tek
+2017-02-02
